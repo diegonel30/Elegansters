@@ -1,0 +1,23 @@
+[
+    {
+      "titulo": "Producto 1",
+      "descripcion": "Descripción del producto 1",
+      "imagen": "assets/img/camiseta.png"
+    },
+    {
+      "titulo": "Producto 2",
+      "descripcion": "Descripción del producto 2",
+      "imagen": "assets/img/camiseta.png"
+    },
+    {
+      "titulo": "Producto 3",
+      "descripcion": "Descripción del producto 3",
+      "imagen": "assets/img/producto3.jpg"
+    },
+    {
+        "titulo": "Producto 4",
+        "descripcion": "Descripción del producto 3",
+        "imagen": "assets/img/producto3.jpg"
+      }
+  ]
+  

@@ -1,0 +1,28 @@
+ion-card {
+    height: 350px;
+    border: none;
+
+  }
+
+  .navbar-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-container {
+    margin-right: 10px;
+  }
+  
+  .text-container {
+    font-size: 1.5em;
+  }
+  .titulo {
+    font-family: 'Poppins', sans-serif
+
+  }
+  ion-toolbar {
+    --ion-color-primary: rgb(40, 133, 125); /* Cambia "red" por el color que deseas */
+  }
+  
+  
+  

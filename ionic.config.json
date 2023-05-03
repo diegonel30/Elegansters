@@ -1,0 +1,7 @@
+{
+  "name": "elegansters",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
